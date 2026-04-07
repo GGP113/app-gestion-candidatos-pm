@@ -54,8 +54,7 @@ const Login = () => {
               <span class="text-slate-500">Remember me </span>
             </div>
             <a class="text-blue-500 font-medium hover:underline" href="#"
-            >Forgot Password</a
-            >
+            >Forgot Password</a>
           </div>
           <button
             class="w-full justify-center py-1 bg-blue-500 hover:bg-blue-600 active:bg-blue-700 rounded-md text-white ring-2"
